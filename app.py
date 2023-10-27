@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hi Harish H Wellcome to the Cloud, Thank You!!!!'
+    return 'Hi Harish H Wellcome to the Cloud World'
